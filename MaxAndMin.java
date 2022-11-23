@@ -27,6 +27,7 @@ public class MaxAndMin {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
+
         toCheckMaxAndMinNUm(a,b,c);
 
     }
