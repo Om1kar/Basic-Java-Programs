@@ -29,7 +29,5 @@ public class ReadNumber {
             System.out.println("Nine");
         else
             System.out.println("Invalid");
-
-
     }
 }
