@@ -16,7 +16,6 @@ public class Quadratic {
 
         System.out.println("Enter value of c");
         double c = sc.nextDouble();
-
         double delta = b * b - 4.0 * a * c;
 
         double rootX1 = (-b + sqrt(delta)) / (2.0 * a);
