@@ -10,7 +10,6 @@ public class ReverseNumByForLoop {
         int reverse = 0;
         int remainder = 0;
         for (int i = 0; i < num; i++) {
-
             remainder = num % 10;
             num = num / 10;
             reverse = (reverse * 10) + remainder;
