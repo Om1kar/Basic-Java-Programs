@@ -7,6 +7,7 @@ public class DisplayUnit {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Digit");
         int num = sc.nextInt();
+
         if (num == 1)
             System.out.println("Unit");
         else if (num == 10)
