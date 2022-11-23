@@ -9,11 +9,11 @@ public class SumOfNumbers {
         int i = 0;
         int sum = 0;
         int num = sc.nextInt();
+
         while (i <= num) {
             System.out.println(i);
             i++;
             sum = sum + i;
-
         }
         System.out.println("Sum of n natural numbers = " + sum);
     }
