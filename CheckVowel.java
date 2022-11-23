@@ -22,6 +22,7 @@ public class CheckVowel {
                 System.out.println("Entered Word is Consonant");
         }
 
+
     }
 
     public static void main(String[] args) {
