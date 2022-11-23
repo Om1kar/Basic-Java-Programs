@@ -12,7 +12,6 @@ public class ReverseNum {
             int remainder = num % 10;
             num = num / 10;
             reverse = (reverse * 10) + remainder;
-
         }
         System.out.println("Reverse Number is " + reverse);
     }
