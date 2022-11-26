@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class SpringSeason {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter month no");
-        int m = sc.nextInt();//month
+        int m = scanner.nextInt();//month
         System.out.println("enter day no");
         int d = sc.nextInt();//day
 
